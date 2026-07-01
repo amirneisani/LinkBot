@@ -58,7 +58,7 @@ BUSINESSES = {
 
 		"banner": "images/banners/yashil.png",
 
-	    "text": "SIMIN_TEXT",
+	    "text": "YASHIL_TEXT",
 
 	    "phone": "123456789",
 
