@@ -14,7 +14,7 @@ def main_menu():
 
     markup.row("🛍 کسب‌وکارهای لینک")
 
-    markup.row("📞 ارتباط با ما")
+    markup.row("📞 ارتباط با لینک")
 
     return markup
 
