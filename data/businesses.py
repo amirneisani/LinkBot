@@ -21,7 +21,9 @@ BUSINESSES = {
         "gallery": [
             "images/gallery/mezon/1.jpg",
             "images/gallery/mezon/2.jpg",
-            "images/gallery/mezon/3.jpg"
+            "images/gallery/mezon/3.jpg",
+			"images/gallery/mezon/4.jpg",
+			"images/gallery/mezon/5.jpg"
         ]
 
     },
@@ -44,7 +46,8 @@ BUSINESSES = {
             "images/gallery/bers/1.jpg",
             "images/gallery/bers/2.jpg",
             "images/gallery/bers/3.jpg",
-            "images/gallery/bers/4.jpg"
+            "images/gallery/bers/4.jpg",
+			"images/gallery/bers/5.jpg"
         ]
 
     },
@@ -65,7 +68,11 @@ BUSINESSES = {
 	    "address": "قم",
 
 	    "gallery": [
-    	    "images/gallery/yashil/1.jpg"
+    	    "images/gallery/yashil/1.jpg",
+			"images/gallery/yashil/2.jpg",
+			"images/gallery/yashil/3.jpg",
+			"images/gallery/yashil/4.jpg",
+			"images/gallery/yashil/5.jpg"
  	   ]
 
 	}
