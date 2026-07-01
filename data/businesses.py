@@ -28,7 +28,7 @@ BUSINESSES = {
 
     "👜 فروشگاه BERS": {
 
-        "id": "bers",
+		"id": "bers",
 
         "title": "👜 فروشگاه BERS",
 
@@ -52,11 +52,11 @@ BUSINESSES = {
 
     "🥩 پروتئینی یاشیل": {
 
-        "id": "yashil",
+		"id": "yashil",
 
-  	  "title": "🥩 پروتئینی یاشیل",
+		"title": "🥩 پروتئینی یاشیل",
 
- 	   "banner": "images/banners/yashil.png",
+		"banner": "images/banners/yashil.png",
 
 	    "text": "YASHIL_TEXT",
 
