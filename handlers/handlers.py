@@ -217,10 +217,10 @@ def register_handlers(bot):
 
 
         # ----------------------
-        # ارتباط با ما
+        # ارتباط با لینک
         # ----------------------
 
-        elif text == "📞 ارتباط با ما":
+        elif text == "📞 ارتباط با لینک":
 
             bot.send_message(
                 message.chat.id,
