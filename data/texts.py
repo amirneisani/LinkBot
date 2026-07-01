@@ -25,6 +25,7 @@ SIMIN_TEXT = """
 BERS_TEXT = """
 ...
 """
+
 YASHIL_TEXT = """
-خوب
+...
 """
