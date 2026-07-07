@@ -75,5 +75,29 @@ BUSINESSES = {
 			"images/gallery/yashil/5.jpg"
  	   ]
 
+	},
+
+	    "💒درب و پنجره دوجداره فرادید": {
+
+		"id": "faradid",
+
+		"title": "💒درب و پنجره دوجداره فرادید",
+
+		"banner": "images/banners/faradid.png",
+
+	    "text": "FARADID_TEXT",
+
+	    "phone": "09129417294",
+
+	    "address": "کرج",
+
+	    "gallery": [
+    	    "images/gallery/faradid/1.jpg",
+			"images/gallery/faradid/2.jpg",
+			"images/gallery/faradid/3.jpg",
+			"images/gallery/faradid/4.jpg",
+			"images/gallery/faradid/5.jpg"
+ 	   ]
+
 	}
 }
